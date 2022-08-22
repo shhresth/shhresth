@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shresth Gupta</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
-<img align="right" alr="coding" width="400" src="https://i.gifer.com/3odR.gif">
+<img align="right" alr="coding" width="400" src="./ProgramingGif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shhresth" alt="shhresth" /></a> </p>
 
